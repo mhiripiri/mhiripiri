@@ -3,7 +3,7 @@
 ### I'm a software developer from #Africa.
 
 - 🔭 I’m currently working on: building a website for a local non-profit.
-- 🌱 I’m currently learning AWS, Sass, and MongoDB.
+- 🌱 I’m currently learning C#, AWS, and MongoDB.
 - 🥅 2020 Goals: to land my first software development job; contribute to open-source projects; push into "deep React", expand into React Native.
 - 💬 Ask me about ... #Africa #AfricanCulture #Chess #ReactJS #Javascript
 - Fun fact: I enjoy playing the mbira (music instrument.)
