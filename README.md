@@ -1,12 +1,12 @@
-# Hi, I'm [Dominic](http://bit.ly/mhiripiri "Dominic Mhiripiri | Welcome")
+# Hi, I'm [Dominic.](http://bit.ly/mhiripiri "Dominic Mhiripiri | Welcome")
 
-### I'm a full-stack developer from #Africa.
+### I'm a software developer from #Africa.
 
-- 🔭 I’m currently working on: building website for a non-profit
-- 🌱 I’m currently learning AWS and MongoDB
-- 🥅 2020 Goals: to land my first software development job; contribute to open-source projects.
-- 💬 Ask me about ... #Africa #AfricanCulture #Chess #ReactJS
-- Fun fact: I love playing chess and the mbira (music instrument)
+- 🔭 I’m currently working on: building a website for a local non-profit.
+- 🌱 I’m currently learning AWS, Sass, and MongoDB.
+- 🥅 2020 Goals: to land my first software development job; contribute to open-source projects; push into "deep React", expand into React Native.
+- 💬 Ask me about ... #Africa #AfricanCulture #Chess #ReactJS #Javascript
+- Fun fact: I enjoy playing the mbira (music instrument.)
 
 ### Connect with me:
 
