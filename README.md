@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: building a website for a local non-profit.
 - 🌱 I’m currently learning C#, AWS, and MongoDB.
-- 🥅 2020 Goals: to land my first software development job; contribute to open-source projects; expand into React Native.
+- 🥅 2020 Goals: to land my a job; contribute to open-source projects.
 - 💬 Ask me about ... #Africa #AfricanCulture #Chess #ReactJS #Javascript
 - Fun fact: I enjoy playing the mbira (music instrument.)
 
