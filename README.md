@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C#, AWS, and MongoDB.
 - 🥅 2020 Goals: to land a job; contribute to open-source projects.
 - 💬 Ask me about ... #Africa #ReactJS #Javascript
-- Fun fact: I play the mbira (Shona music instrument.)
+- Fun fact: I play the mbira (Shona musical instrument.)
 
 ### Connect with me:
 
