@@ -1,10 +1,10 @@
 # Hi, I'm [Dominic.](http://bit.ly/mhiripiri "Dominic Mhiripiri | Welcome")
 
-### I'm a software developer from #Africa.
+### I'm a full-stack developer from #Africa.
 
-- 🔭 I’m currently working on: building a website for a local non-profit.
+- 🔭 I’m currently working on: a website for a local non-profit.
 - 🌱 I’m currently learning C#, AWS, and MongoDB.
-- 🥅 2020 Goals: land a job; contribute to open-source projects.
+- 🥅 2020 Goals: contribute to an open-source projects. Get a job.
 - 💬 Ask me about ... #ReactJS #Javascript #MERN.
 - Fun fact: I play the mbira (Shona musical instrument.)
 
