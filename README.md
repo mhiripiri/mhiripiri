@@ -1,6 +1,6 @@
 # Hi, I'm [Dominic.](http://bit.ly/mhiripiri "Dominic Mhiripiri | Welcome")
 
-### I'm a full-stack developer from #Africa.
+### Full-stack developer.
 
 - 🔭 I’m currently working on: a website for a local non-profit.
 - 🌱 I’m currently learning C#, AWS, and MongoDB.
