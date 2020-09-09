@@ -1,19 +1,14 @@
-# Hi, I'm [Dominic.](http://bit.ly/mhiripiri "Dominic Mhiripiri | Welcome")
+# Hi, I'm [Dominic.](http://mhiripiri.io "Dominic Mhiripiri | Welcome")
 
 ### Full-stack developer.
 
-- 🔭 I’m currently working on: a website for a local non-profit.
-- 🌱 I’m currently learning C#, AWS, and MongoDB.
-- 🥅 2020 Goals: contribute to an open-source projects. Get a job.
-- 💬 Ask me about ... #ReactJS #Javascript #MERN.
-- Fun fact: I play the mbira (Shona musical instrument.)
 
 ### Connect with me:
 
 <img align="left" alt="the_mhiripiri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://twitter.com/the_mhiripiri)
 
 <img align="left" alt="Dominic Mhiripiri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](https://linkedin.com/in/mhiripiri)<br /><br />
-[Dominic Mhiripiri | Personal Website](https://mhiripiri.io)
+[My Site](https://mhiripiri.io)
 
 <br />
 
