@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
 # Hi, I'm [Dominic.](http://mhiripiri.io "Dominic Mhiripiri | Welcome")
 
 ### Full-stack developer.
