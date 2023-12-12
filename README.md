@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="the_mhiripiri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://twitter.com/the_mhiripiri)
+
 
 <img align="left" alt="Dominic Mhiripiri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](https://linkedin.com/in/mhiripiri)<br /><br />
 
